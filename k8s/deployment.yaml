@@ -16,7 +16,7 @@ spec:
     spec:
       containers:
         - name: gitops-demo
-          image: spark2345/gitops-demo-app:v1
+          image: spark2345/gitops-demo-app:v2
           ports:
             - containerPort: 5000
 
